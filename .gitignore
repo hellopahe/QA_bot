@@ -1,0 +1,5 @@
+.DS*
+__MAC
+.idea/
+data/*
+model/*

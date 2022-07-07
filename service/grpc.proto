@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+//golang选项
+package pb;
+option go_package="./;pb";
+
+service GRPC{
+  rpc Req(req) returns(rply);
+}
+
+message req {
+  string msg = 1;
+}
+
+message rply{
+  string  msg = 1;
+}
