@@ -1,4 +1,756 @@
-Q:hello
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:tax
+A:{"spl_words": "tax", "keywords": "tax", "problem_id": [27, 26, 29], "problem": ["What tax documents will I receive?", "When will I receive tax documents? ", "Where can I find all the tax documents? "], "score": "[-1.0394278230037195, -1.048495007072479, -1.2885333054104782]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:invest
+A:{"spl_words": "invest", "keywords": "invest", "problem_id": [1], "problem": ["How to invest"], "score": "[-0.18003839440416525]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
 A:服务器出现了预料外的错误
-Q:hello
-A:{"spl_words": "hello", "keywords": "hello", "problem_id": [], "problem": [], "score": "[]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:服务器出现了预料外的错误
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
+Q:information
+A:{"spl_words": "information", "keywords": "information", "problem_id": [31, 12], "problem": ["How does FinDao secure my information?", "How do I update my personal information? "], "score": "[-1.115415045457833, -1.1930635690959293]"}
